@@ -35,7 +35,7 @@ The API Endpoints for three APIs used are: 1. astrologer
 </p>
 
 <p float="center">
-  <img src="https://user-images.githubusercontent.com/44332209/134979427-5fe4de0e-018a-4e7f-b865-f54c384df952.jpg.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/44332209/134979427-5fe4de0e-018a-4e7f-b865-f54c384df952.jpg" width="200" />
   <img src="https://user-images.githubusercontent.com/44332209/134979430-ee9b9480-878e-49d2-8c44-13236de9abaa.jpg" width="200" /> 
   <img src="https://user-images.githubusercontent.com/44332209/134979432-d07dca12-aae5-4ae9-be5c-cfeab06d2735.jpg" width="200" />
 </p>
