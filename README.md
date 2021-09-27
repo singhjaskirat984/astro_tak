@@ -27,6 +27,32 @@ The API Endpoints for three APIs used are: 1. astrologer
   <img src="https://user-images.githubusercontent.com/44332209/134979413-f9c8cf63-0c28-4c2e-ae1e-7e0b2bb7811d.jpg" width="200" /> 
   <img src="https://user-images.githubusercontent.com/44332209/134979415-7aa6f9eb-326a-45b2-9969-6f70799f6445.jpg" width="200" />
 </p>
+
+<p float="center">
+  <img src="https://user-images.githubusercontent.com/44332209/134979418-b7c904af-eba7-4226-b27e-963237718bdc.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/44332209/134979419-c516e44a-5dde-4873-9936-d1872474c28e.jpg" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/44332209/134979422-94176723-cebd-450f-b953-b1b52b20f01b.jpg" width="200" />
+</p>
+
+<p float="center">
+  <img src="https://user-images.githubusercontent.com/44332209/134979427-5fe4de0e-018a-4e7f-b865-f54c384df952.jpg.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/44332209/134979430-ee9b9480-878e-49d2-8c44-13236de9abaa.jpg" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/44332209/134979432-d07dca12-aae5-4ae9-be5c-cfeab06d2735.jpg" width="200" />
+</p>
+
+<p float="center">
+  <img src="https://user-images.githubusercontent.com/44332209/134979435-2758482c-60d0-4863-b05b-a3d2acddd773.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/44332209/134979437-ce342f43-d4a6-49fc-940f-0224fe6e5af7.jpg" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/44332209/134979432-d07dca12-aae5-4ae9-be5c-cfeab06d2735.jpg" width="200" />
+</p>
+
+<p float="center">
+  <img src="https://user-images.githubusercontent.com/44332209/134979443-a69777a9-835b-4857-90e5-d2988c2ea29c.jpg" width="200" />
+  <img src="https://user-images.githubusercontent.com/44332209/134979446-ce50d013-58de-4e5b-9110-bc79edeb0ee5.jpg" width="200" /> 
+  <img src="https://user-images.githubusercontent.com/44332209/134979451-685c1f0e-203b-40cb-a8e8-06a5c348d6af.jpg" width="200" />
+</p>
+
+
  
 
 
