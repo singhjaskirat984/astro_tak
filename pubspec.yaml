@@ -1,0 +1,67 @@
+name: astro_tak
+description: Astro Tak - Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  cached_network_image: ^3.1.0
+  http: ^0.13.3
+  provider: ^6.0.0
+  flutter_svg: ^0.22.0
+  connectivity_plus: ^1.1.0
+  page_transition: ^2.0.2
+  fluttertoast: ^8.0.8
+  charts_flutter:
+    git:
+      url: git://github.com/google/charts.git
+      path: charts_flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/ask.png
+    - assets/images/hamburger.png
+    - assets/images/home.png
+    - assets/images/logo.png
+    - assets/images/profile.png
+    - assets/images/reports.png
+    - assets/images/search.png
+    - assets/images/sort.png
+    - assets/images/filter.png
+    - assets/images/talk.png
+    - assets/images/ganpati.jpg
+    - assets/images/info1.png
+    - assets/images/info2.png
+    - assets/images/aries.png
+    - assets/images/aquarius.png
+    - assets/images/capricorn.png
+    - assets/images/gemini.png
+    - assets/images/libra.png
+    - assets/images/sagittarius.png
+    - assets/images/scorpio.png
+    - assets/images/taurus.png
+    - assets/images/virgo.png
+    - assets/images/pisces.png
+    - assets/images/leo.png
+    - assets/images/cancer.png
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
