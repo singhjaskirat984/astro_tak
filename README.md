@@ -16,6 +16,7 @@ The API Endpoints for three APIs used are: 1. astrologer
                                            2. hororscope
                                            3. questions
  
+![1](https://user-images.githubusercontent.com/44332209/134979034-723e143a-1161-420b-b5bc-f811d757af9e.jpg)
 
 
 
