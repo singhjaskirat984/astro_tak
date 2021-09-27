@@ -7,7 +7,7 @@ class AstrologerDataProvider with ChangeNotifier {
   LoadingStatus loadingStatus = LoadingStatus.searching;
   AstrologerDataModel? astrologerDataModel;
 
-  late AstrologerDataModel prevAstrologerDataModel;
+  // late AstrologerDataModel prevAstrologerDataModel;
 
   void fetchAstrologerData() async {
     this.loadingStatus = LoadingStatus.searching;
@@ -42,32 +42,32 @@ class AstrologerDataProvider with ChangeNotifier {
     notifyListeners();
   }
 
-  void storeData(){
-    prevAstrologerDataModel = astrologerDataModel!;
-  }
-
-  void revertData(){
-    astrologerDataModel=prevAstrologerDataModel;
-    notifyListeners();
-  }
-
-  void search(String val){
-    print(val);
-    if(val.isNotEmpty){
-      List<AstrologerDatum> searchList =
-      astrologerDataModel!.astrologerData.where((element){
-        element.firstName.contains(val);
-        throw(e){
-          print(e);
-        };
-      }).toList();
-      print("valldskfdsfksdf$val");
-      print(searchList);
-      astrologerDataModel!.astrologerData = searchList;
-      notifyListeners();
-    }else{
-      astrologerDataModel = prevAstrologerDataModel;
-      notifyListeners();
-    }
-  }
+  // void storeData(){
+  //   prevAstrologerDataModel = astrologerDataModel!;
+  // }
+  //
+  // void revertData(){
+  //   astrologerDataModel=prevAstrologerDataModel;
+  //   notifyListeners();
+  // }
+  //
+  // void search(String val){
+  //   print(val);
+  //   if(val.isNotEmpty){
+  //     List<AstrologerDatum> searchList =
+  //     astrologerDataModel!.astrologerData.where((element){
+  //       element.firstName.contains(val);
+  //       throw(e){
+  //         print(e);
+  //       };
+  //     }).toList();
+  //     print("valldskfdsfksdf$val");
+  //     print(searchList);
+  //     astrologerDataModel!.astrologerData = searchList;
+  //     notifyListeners();
+  //   }else{
+  //     astrologerDataModel = prevAstrologerDataModel;
+  //     notifyListeners();
+  //   }
+  // }
 }

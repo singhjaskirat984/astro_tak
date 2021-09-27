@@ -39,7 +39,7 @@ class _BottomNavigationState extends State<BottomNavigation> {
     context.read<QuestionsDataProvider>().fetchQuestionsData();
     context.read<AstrologerDataProvider>().fetchAstrologerData();
     context.read<HororscopeDataProvider>().fetchHororscopeData();
-    context.read<AstrologerDataProvider>().storeData();
+    // context.read<AstrologerDataProvider>().storeData();
   }
 
   List<Widget> _buildScreens() {

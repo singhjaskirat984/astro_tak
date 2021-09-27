@@ -47,7 +47,7 @@ class _TalkToAstroScreenState extends State<TalkToAstroScreen> {
                             setState(() {
                               isSearch=false;
                             });
-                            context.read<AstrologerDataProvider>().revertData();
+                            // context.read<AstrologerDataProvider>().revertData();
                           }else{
                             setState(() {
                               isSearch=true;
@@ -139,10 +139,10 @@ class _TalkToAstroScreenState extends State<TalkToAstroScreen> {
                   height: 22,
                   child: TextField(
                     controller: txt,
-                    onSubmitted: (String val){
-                      print(val);
-                      context.read<AstrologerDataProvider>().search(txt.text);
-                    },
+                    // onSubmitted: (String val){
+                    //   print(val);
+                    //   context.read<AstrologerDataProvider>().search(txt.text);
+                    // },
                   ),
                 )
               ),
