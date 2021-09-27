@@ -15,6 +15,8 @@ To check and test the API [Click Here](https://astro-tak-api.herokuapp.com/).
 The API Endpoints for three APIs used are: 1. astrologer
                                            2. hororscope
                                            3. questions
+ 
+
 
 
 
